@@ -1,10 +1,10 @@
 # Currency Converter
 
-## 🔗 [Live Demo](https://currency-converter-orewagaurav.vercel.app/)
+## 🔗 [Live Demo](https://orewagaurav.github.io/Currency_Convertor/)
 
 A modern, responsive currency conversion web application built with React and Vite. This application allows users to convert between different currencies using real-time exchange rates.
 
-![Currency Convertor]()
+![Currency Convertor](./src/assets/image.png)
 
 ## ✨ Features
 
